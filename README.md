@@ -9,11 +9,12 @@
 ### 3. Click the `Codespaces` tab
 ### 4. Click `Create codespace on main`
 ### 5. Wait for the codespace to load
-### 6. In `Terminal` at the bottom, find `(main) $`
-### 7. Paste `bash run.sh` right after it and press `Enter`
-### 8. Click the `Ports` tab
-### 9. Find the `Desktop (6080)` port
-### 10. Hover over its link and click the globe icon
-### 11. Click `Connect` in the new tab
-### 12. In the left sidebar, click the gear icon
-### 13. Set `Scaling mode` to `Remote resizing`
+### 6. Click `Trust Author & Continue`
+### 7. In `Terminal` at the bottom, find `(main) $`
+### 8. Paste `bash run.sh` right after it and press `Enter`
+### 9. Click the `Ports` tab
+### 10. Find the `Desktop (6080)` port
+### 11. Hover over its link and click the globe icon
+### 12. Click `Connect` in the new tab
+### 13. Open the left sidebar and click the gear icon
+### 14. Set `Scaling mode` to `Remote resizing`
