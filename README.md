@@ -18,3 +18,4 @@
 12. Click `Connect` in the new tab
 13. Open the left sidebar and click the gear icon
 14. Set `Scaling mode` to `Remote resizing`
+15. Adjust your screen's size scaling if necessary 
