@@ -9,7 +9,7 @@
 3. Click the `Codespaces` tab
 4. Click `Create codespace on main`
 5. Wait for the codespace to load
-6. Click `Trust Author & Continue`
+6. Click `Trust Folder & Continue`
 7. In `Terminal` at the bottom, find `(main) $`
 8. Paste `bash run.sh` right after it and press `Enter`
 9. Click the `Ports` tab
